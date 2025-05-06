@@ -1,3 +1,3 @@
 # Data-Structure
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ankitsharma9122/Data-Structure)
+[Ankit sharma ⚡️](https://www.linkedin.com/in/ankit-kumar-93131a1b4/)
