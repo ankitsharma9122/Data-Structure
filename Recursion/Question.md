@@ -9,8 +9,12 @@
 * Time & Space : 2^n / o(n) [Maxium depth of tree]
 * Note : When ever their is and condition in base case check twice for recursive call , will infinite call caise MLE.
 
-3. [Subset sum](https://leetcode.com/problems/subsets)
+3. [Find all Subset sum](https://leetcode.com/problems/subsets)
 * same as Question 1.
+
+4. [subsequences sum equal to k ](https://leetcode.com/problems/subsets)
+* same as Question 1 just make sure to return 1,0.
+
 
 Medim :
 
