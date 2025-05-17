@@ -1,30 +1,43 @@
-## Easy : 
-**Questions based on pick/not-pick:**
+Basic Recusion :
+1. [Count Good Numbers - Power of N to K](https://leetcode.com/problems/count-good-numbers/)
 
-1. [Generate all valid parentheses](https://leetcode.com/problems/generate-parentheses)
+2. [Sort a stack using recursion](https://leetcode.com/playground/YNDD4RF7)
 
-* Time & Space : 2^n / o(n) [Maxium depth of tree]
-* Note : When ever their is and condition in base case check twice for recursive call , will infinite call caise MLE.
+Chosse/Not choose :
 
-2. [subsequences sum equal to k ](https://leetcode.com/problems/subsets)
-* same as Question 1 just make sure to return 1,0.
+3. [Subset 1 - choose/Not choose](https://leetcode.com/problems/subsets/description/)
 
-Note : subset where target is not fixed
-3. [Find all Subset sum(subset sum 1)](https://leetcode.com/problems/subsets)
-* Time & Space : 2^n / o(n) [Maxium depth of tree]
+4. [Subset 2 - Duplicate number in input](https://leetcode.com/problems/subsets-ii/description/)
 
-4. [Generate all Binary String](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/)
+5. [Combination sum 1 : sum=target from unique array](https://leetcode.com/problems/combination-sum/description/)
 
-* same as Question 3. 
+6. [Combination sum 2 : sum=target from duplicate value in array](https://leetcode.com/problems/combination-sum-ii/description/)
 
-5.  [Combination sum 1](https://leetcode.com/problems/combination-sum/description/) 
+7. [Phone number : Application of combination 2/subset 2](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+8. [Palindrome partitioning : Application of combination 2/subset 2]( https://leetcode.com/problems/palindrome-partitioning/description/)
 
 
+Total Count : 
 
-Medim :
+9. [Count in Recusrion](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
+
+Early return :
+
+10. [First found early return in Recusrion](https://leetcode.com/problems/is-subsequence/)
+
+Grid recusion : 
+
+11. [Rat In Maze to reach (n-1 , m-1) with condition](https://takeuforward.org/data-structure/rat-in-a-maze/)
+
+12. [Find word in Grid](https://leetcode.com/problems/word-search/description/)
 
 
-Hard :
+Grid Recusion without using Extra ans vector : 
 
+14. [sudoku Problem](https://leetcode.com/problems/sudoku-solver/description/) : same N queen
 
+Multiple Choose Point with Multiple possiable operation : 
+
+15. [Expression Generator with fixed target](https://leetcode.com/problems/expression-add-operators/description/)
 
