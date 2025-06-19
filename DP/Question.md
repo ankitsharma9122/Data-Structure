@@ -19,3 +19,16 @@
 
 3-D DP 
 1. [Multi direction by Multi player](https://leetcode.com/problems/cherry-pickup-ii/description/)
+
+Take / Not Take 
+
+Limited supply :
+1. [Subset sum equal to target](https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954?leftPanelTab=0)
+
+2. [Target sum with offset required](https://leetcode.com/problems/target-sum/description/)
+
+Un-limited supply :
+
+1. [Minimum coins to reach target with Unlimitted supply](https://leetcode.com/problems/coin-change-ii/description/)
+
+2. [unbounded knapsack](https://takeuforward.org/plus/dsa/problems/unbounded-knapsack)
