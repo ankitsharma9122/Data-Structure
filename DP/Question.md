@@ -5,8 +5,6 @@
 4. possibility l1 || l2 || l3....ln-1;
 5. all true if(l1===false) return false ==> early  -->
 
-
-
 1-D DP:
 1. [Jump atmost K step to reach Destination](https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/)
 
@@ -32,3 +30,19 @@ Un-limited supply :
 1. [Minimum coins to reach target with Unlimitted supply](https://leetcode.com/problems/coin-change-ii/description/)
 
 2. [unbounded knapsack](https://takeuforward.org/plus/dsa/problems/unbounded-knapsack)
+
+string Dp
+
+1. [LCS subseqnce](https://leetcode.com/problems/longest-common-subsequence/description/)
+
+2. [Print LCS](https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/)
+
+3. [LCS substring](https://takeuforward.org/data-structure/longest-common-substring-dp-27/)
+
+4. [Minimum Deletions to Convert String](https://leetcode.com/problems/delete-operation-for-two-strings/description/)
+
+5. [Super Sequence](https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/)
+
+6. [No of Distinct Sequence](https://leetcode.com/problems/distinct-subsequences/description/)
+
+7. [Minimum Insertion/Deletions/Replace to Convert String]( https://leetcode.com/problems/edit-distance/description/)
