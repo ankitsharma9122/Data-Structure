@@ -53,4 +53,4 @@ DP on stock
 
 1. [K times buy sell allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
-2. [Conditional buy sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+2. [Conditional buy sell 3D types](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
