@@ -54,3 +54,17 @@ DP on stock
 1. [K times buy sell allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
 2. [Conditional buy sell 3D types](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+
+DP on increasing Sequence
+
+1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+
+2. [print LIS](https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/)
+
+3. [print LIS with condition 1](https://leetcode.com/problems/largest-divisible-subset/description/)
+
+4. [Print LIS with condition 2](https://leetcode.com/problems/longest-string-chain/description/)
+
+5. [Longest Bi-tonic](https://takeuforward.org/data-structure/longest-bitonic-subsequence-dp-46/)
+
+6. [Count of LIS in array](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
