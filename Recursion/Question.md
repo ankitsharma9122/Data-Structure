@@ -1,7 +1,9 @@
 Basic Recusion :
-1. [Count Good Numbers - Power of N to K](https://leetcode.com/problems/count-good-numbers/)
+1. [Super Power](https://leetcode.com/problems/super-pow)
 
-2. [Sort a stack using recursion](https://leetcode.com/playground/YNDD4RF7)
+2. [Count Good Numbers - Power of N to K](https://leetcode.com/problems/count-good-numbers/)
+
+3. [Sort a stack using recursion](https://leetcode.com/playground/YNDD4RF7)
 
 Chosse/Not choose :
 
