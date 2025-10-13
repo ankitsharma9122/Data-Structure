@@ -16,6 +16,7 @@ Based on Basic Recusrion(DFS) :
 5. Two BT are identical(for symmentric instaed of 2 BT use root->left , root->right).
 6. Root to Node path (back track pushed element).
 7. LCS (common decendent ancestor [move left if right null and vice versa else you got that ancestor])
+8. Children sum property (once going down if childs are lesser than parent increase it, on backtrack make it root as left+right)
 
 Based on Level order Traversal (BFS) :
 1. Zig-Zag ptint BT(maintain flag).
