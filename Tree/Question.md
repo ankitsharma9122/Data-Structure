@@ -21,6 +21,8 @@ Based on Basic Recusrion(DFS) :
 Based on Level order Traversal (BFS) :
 1. Zig-Zag ptint BT(maintain flag).
 2. Width of Tree (maintain 2i+1 and 2i*2 for left right child).
+3. Nodes at k distance.
+4. Min time to burn out BT.
 
 Based on Fixed logic :
 1. Boundary BT(Left node right node + leaves node[bottom last]).
